@@ -23,7 +23,7 @@ def get_weather():
     return temperature, weather, week, city, dressing_advice
 
 
-while True:
+while True:   # ！！！调试时记得先把while True注释掉，不然会一直重复发送失败，一天限制100次调用的，成功后再加上注释
     try:
         temperature, weather, week, city, dressing_advice = get_weather()
         # 发送到微信群里
