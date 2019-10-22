@@ -9,7 +9,7 @@ from threading import Timer
 关注后回复1024免费领取学习资料！
 """
 
-bot = Bot(cache_path=True)  # 扫码登录微信
+bot = Bot(cache_path=True)  # 扫码登录微信，如果在Linux环境中运行，加一个参数 bot = Bot(console_qr=-2,cache_path=True)
 
 
 def get_weather():
