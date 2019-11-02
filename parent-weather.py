@@ -49,6 +49,6 @@ while True:   # ！！！调试时记得先把while True注释掉，不然会一
         my_friend = bot.friends().search(u'xxx')[
             0]  # 发送不成功，则发送消息给自己，提醒消息发送失败 xxx改成你自己微信的昵称
         my_friend.send(u'天气消息发送失败，请停止程序进行调试')
-        sleep(600)
+        break
 
 
