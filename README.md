@@ -9,10 +9,12 @@ Python基于wxpy库制作的天气预报提醒小工具
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
-#### 1022优化代码
-发送失败时增加等待时间 5 分钟，并微信发送消息给自己，防止短时间内大量失败消息发送微信，浪费了调用接口的次数。
+#### 更新
+增加了免费发短信功能--部分微信无法调用网页版微信功能
 
-#### 原文链接：[点击这里](https://mp.weixin.qq.com/s/GrWQN6-gK49L8l0u37Tr7g)
+#### 微信版原文链接：[点击这里](https://mp.weixin.qq.com/s/GrWQN6-gK49L8l0u37Tr7g)
+#### 短信版原文链接：[点击这里](https://mp.weixin.qq.com/s/oqTwFr6w1q7_yUGUBA0LOw)
 
-#### 源码：见上方parent-weather.py文件
+#### 微信版源码：见上方parent-weather.py文件
+#### 微信版源码：见上方weather-message.py文件
 
