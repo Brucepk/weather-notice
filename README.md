@@ -16,5 +16,5 @@ Python基于wxpy库制作的天气预报提醒小工具
 #### 短信版原文链接：[点击这里](https://mp.weixin.qq.com/s/oqTwFr6w1q7_yUGUBA0LOw)
 
 #### 微信版源码：见上方parent-weather.py文件
-#### 微信版源码：见上方weather-message.py文件
+#### 短信版源码：见上方weather-message.py文件
 
