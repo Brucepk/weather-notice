@@ -10,9 +10,9 @@ Python基于wxpy库制作的天气预报提醒小工具
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
 #### 更新
-#####1.1 增加了免费发短信功能--部分微信无法调用网页版微信功能
+##### 1.1 增加了免费发短信功能--部分微信无法调用网页版微信功能
 
-#####1.2 增加短信每天定时发送金山词霸优美语句给女票。
+##### 1.2 增加短信每天定时发送金山词霸优美语句给女票。
 ![](http://blog.pyzhishiquan.com/img/20191104143201.jpg)
 
 #### 微信版原文链接：[点击这里](https://mp.weixin.qq.com/s/GrWQN6-gK49L8l0u37Tr7g)
