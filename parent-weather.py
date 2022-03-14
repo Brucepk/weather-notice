@@ -8,7 +8,6 @@ from time import sleep
 本文原创：pk哥
 公众号：Python知识圈（id：PythonCircle）
 「Python知识圈」公众号定时分享大量有趣有料的 Python 爬虫和实战项目，值得你的关注。
-关注后回复1024免费领取学习资料！
 """
 
 bot = Bot(cache_path=True)  # 扫码登录微信，如果在Linux环境中运行，加一个参数 bot = Bot(console_qr=-2,cache_path=True)
