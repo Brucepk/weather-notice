@@ -1,5 +1,5 @@
 # weather-notice
-Python基于wxpy库免费发短信制作的天气预报提醒小工具
+Python基于wxpy库或者短信服务制作的天气预报提醒舔狗小工具
 
 ## 微信公众号
 欢迎关注个人微信公众号 “Python知识圈” （ID：PythonCircle）
