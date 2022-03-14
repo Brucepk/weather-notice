@@ -4,8 +4,6 @@ Python基于wxpy库或者短信服务制作的天气预报提醒舔狗小工具
 ## 微信公众号
 欢迎关注个人微信公众号 “Python知识圈” （ID：PythonCircle）
 
-![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
-
 #### 更新
 ##### 1.1 增加了免费发短信功能--因为部分微信无法调用网页版微信功能
 
